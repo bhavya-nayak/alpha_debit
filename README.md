@@ -13,6 +13,8 @@
 
 1. Login
 2. Register
-        -> Email Verification & Register (Step 1)
+        -> Email Register (Step 1)
         -> Address completion (Step 2)
+                -> Pass Bearer token to get authorized.
         -> Profile completion(Step 3)
+                -> Pass Bearer token to get authorized.
