@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "dist",
+    "sourceMap": true,
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true
+  },
+  "files": ["./node_modules/@types/node/index.d.ts"],
+  "include": ["src/**/*", "src/resources/locales/*"],
+  "exclude": ["node_modules", "dist"]
+}

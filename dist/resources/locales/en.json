@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"password_validation": "Password is required",
+		"password_regex_validation": "Password must contain atleast one uppercase and one lowercase character",
+		"signup_success": "User personal infromation saved successfully",
+		"user_exist": "User already exist with given Email",
+		"user_not_found": "User not found with given credentials",
+		"profile_already_completed": "Profile is already completed, Please sign In"
+	}
+}
