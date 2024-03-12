@@ -1,1 +1,0 @@
-{"version":3,"file":"i18n.js","sourceRoot":"","sources":["../../src/config/i18n.ts"],"names":[],"mappings":";;;;;AAAA,gDAAuB;AACvB,gDAAuB;AAEvB,cAAI,CAAC,SAAS,CAAC;IACb,OAAO,EAAE,CAAC,IAAI,CAAC;IACf,aAAa,EAAE,IAAI;IACnB,SAAS,EAAE,cAAI,CAAC,IAAI,CAAC,SAAS,EAAE,gBAAgB,EAAE,SAAS,CAAC;IAC5D,cAAc,EAAE,IAAI;CACrB,CAAC,CAAA;AAEF,kBAAe,cAAI,CAAA"}
