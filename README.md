@@ -1,20 +1,22 @@
-**How to run this project?**
+**How to execute this project?**
 
-1. Take Git Clone
-2. Run the `npm install`
-3. Create/Update the ENV file and Add the below key into that
-        a. NODE_ENV
-        b.PORT
-        c.JWT_SECRET_KEY(You can set string value)
-    
-4. to run the project hit these commands into the terminal 1.`npm run build`    2. `npm run start` 
+1. Perform Git Clone
 
-**API Contains**
+2. Execute the npm install command
 
-1. Login
-2. Register
-        -> Email Register (Step 1)
-        -> Address completion (Step 2)
-                -> Pass Bearer token to get authorized.
-        -> Profile completion(Step 3)
-                -> Pass Bearer token to get authorized.
+3. Create/Update the ENV file by following `.env.example` file
+
+To run the project, execute the following commands in the terminal:
+
+- npm run build
+- npm run start
+
+**API Overview**
+
+1. User Login
+2. User Registration
+-> Email Registration (Step 1)
+-> Address Completion (Step 2)
+-> Utilize Bearer token for authorization.
+-> Profile Completion (Step 3)
+-> Utilize Bearer token for authorization.
